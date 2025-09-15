@@ -1,0 +1,3 @@
+-javaagent:E:/soft-shell/ja-netfilter/ja-netfilter.jar
+--add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
+--add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
